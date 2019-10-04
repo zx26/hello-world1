@@ -1,2 +1,4 @@
 # hello-world1
- a simple project
+Hi!
+
+I am here because i want to learn programing, so be patitient with me
